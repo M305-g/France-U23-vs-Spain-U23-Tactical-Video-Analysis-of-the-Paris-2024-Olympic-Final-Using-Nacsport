@@ -294,5 +294,16 @@ The goals alone do not explain everything that happened in this match. Looking a
     observations; I did not track how often they occurred across the
     full match.
 
+MWANAHAMISI JUMA
 
+Mwanahamis050@gmail.com
 
+Tableau : https://public.tableau.com/app/profile/mwanahamisi.juma/viz/EventComparisonView/EventComparisonView?publish=yes
+
+Tableau : https://public.tableau.com/app/profile/mwanahamisi.juma/viz/ShootingEfficiency_17933652882070/Sheet2?publish=yes
+
+Tableau : https://public.tableau.com/app/profile/mwanahamisi.juma/viz/GoalsTimeline/Sheet1?publish=yes
+
+Tableau : https://public.tableau.com/app/profile/mwanahamisi.juma/viz/TerritoryAgainstDefensiveBlock/TerritoryAgaistDefensiveStructure?publish=yes
+
+Linkedin profile : www.linkedin.com/in/mwanahamisi-juma-00576b394

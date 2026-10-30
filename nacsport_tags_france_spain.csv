@@ -1,0 +1,35 @@
+Panel,Event,Team,Count
+In Possession,Build Up,France,59
+In Possession,Build Up,Spain,51
+In Possession,Progression,France,82
+In Possession,Progression,Spain,58
+In Possession,Shot,France,29
+In Possession,Shot,Spain,19
+In Possession,Final Third Entry,France,137
+In Possession,Final Third Entry,Spain,76
+In Possession,Line Breaking Pass,France,22
+In Possession,Line Breaking Pass,Spain,13
+Out of Possession,High Press,France,12
+Out of Possession,High Press,Spain,5
+Out of Possession,Defensive Block (low block),France,10
+Out of Possession,Defensive Block (low block),Spain,30
+Out of Possession,Interception,France,13
+Out of Possession,Interception,Spain,6
+Out of Possession,Tackle,France,38
+Out of Possession,Tackle,Spain,59
+Transitions,Ball Recovery,France,60
+Transitions,Ball Recovery,Spain,56
+Transitions,Counterattack,France,15
+Transitions,Counterattack,Spain,10
+Transitions,Counterpress,France,8
+Transitions,Counterpress,Spain,11
+Transitions,Transition to Defence,France,45
+Transitions,Transition to Defence,Spain,33
+Set Pieces,Attacking Corner,France,12
+Set Pieces,Attacking Corner,Spain,2
+Set Pieces,Defensive Corner,France,2
+Set Pieces,Defensive Corner,Spain,12
+Set Pieces,Free Kicks,France,15
+Set Pieces,Free Kicks,Spain,20
+Result,Goal,France,3
+Result,Goal,Spain,5

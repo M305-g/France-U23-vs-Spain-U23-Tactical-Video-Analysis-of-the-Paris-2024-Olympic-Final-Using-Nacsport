@@ -216,19 +216,11 @@ Broadcast screenshots of each defensive shape, with the match time and score.
 
 **Spain 4-4-2, 10:02 (0–0)**
 
-![Spain 4-4-2 defensive shape at 10:02](images/Spain_4-4-2_10-02.jpg)
-
 **Spain 5-4-1, 19:46 (1–1)**
-
-![Spain 5-4-1 defensive shape at 19:46](images/Spain_5-4-1_19-46.jpg)
 
 **Spain 5-3-1, 41:18 (Spain 3–1)**
 
-![Spain 5-3-1 defensive shape at 41:18](images/Spain_5-3-1_41-18.jpg)
-
 **France 5-3-2, 98:58 (extra time, 3–3)**
-
-![France 5-3-2 defensive shape at 98:58](images/France_5-3-2_98-58.jpg)
 
 *A France midfielder has dropped into the defensive line to make a 5-3-2, seven seconds before Spain's fourth goal.*
 
@@ -297,6 +289,11 @@ The goals alone don't tell the full story of this match. Looking at the build-up
 ## Contact
 
 **Mwanahamisi Juma**
+
+Tactical & Video Analyst
+
++255787338398
+
 Mwanahamis050@gmail.com
 
 **Tableau dashboards**
